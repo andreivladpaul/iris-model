@@ -3,11 +3,10 @@
 This repository shows a **minimal end-to-end example** of how to:
 
 * train a machine learning model on the Iris dataset
-* serialize the trained model to disk
 * expose the model through a REST API using **FastAPI**
 * send inference requests via HTTP
 
-The goal is educational: understanding how a trained model can be served as an API.
+*The goal is educational: understanding how a trained model can be served as an API.
 ---
 
 ## Model Training
@@ -75,12 +74,6 @@ Main dependencies:
 * pandas
 * seaborn
 * requests
-
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
