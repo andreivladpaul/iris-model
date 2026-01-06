@@ -6,7 +6,7 @@ This repository shows a **minimal end-to-end example** of how to:
 * expose the model through a REST API using **FastAPI**
 * send inference requests via HTTP
 
-*The goal is educational: understanding how a trained model can be served as an API.
+The goal is educational: understanding how a trained model can be served as an API.
 ---
 
 ## Model Training
